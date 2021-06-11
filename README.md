@@ -11,7 +11,7 @@
  
  
 <a href = 'hhttps://www.linkedin.com/in/kevser-%C3%A7i%C3%A7ek-08230b144/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
-<a href = 'https://www.instagram.com/kevserrcicek/'> <img width = '35px' align= 'right' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = 'https://www.instagram.com/kevserrcicek/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 
  
 
