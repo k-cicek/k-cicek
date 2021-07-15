@@ -9,7 +9,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/kevser-%C3%A7i%C3%A7ek-08230b144/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/kevserrcicek/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
