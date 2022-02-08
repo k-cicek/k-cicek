@@ -1,6 +1,6 @@
 
-<h4 align="left">Hi, Welcome to my Github Profile!🙋🏽‍♀️ </h4>
-<h4 align="left"> I'm a Jr. Frontend Developer </h4>
+<h1 align="center">Hi, Welcome to my Github Profile!🙋🏽‍♀️ </h1>
+<h4 align="center"> I'm a Jr. Frontend Developer </h4>
 <img align="rigt" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="200" height="120" />
 
 
