@@ -20,10 +20,11 @@
 <p align='left'>
 
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='bootstrap' width='40' height='40' /> </a> <a href='https://www.w3schools.com/css/' target='_blank'>
+<img src='https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg' alt='invision' width='40' height='40' /> </a> <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank'>
                                                                                                                
-<img width ='40px' height='40' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt='javascript'>
+
 <img width ='40px' height='40' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt='css'>
-<img width ='40px' height='40' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='bootstrap'>
+
 <img width ='40px' height='40' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt='html'>  
 <img width ='40px' height='40' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg' alt='sass'>
 <img width ='40px' height='40' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg' alt='firebase'>  
