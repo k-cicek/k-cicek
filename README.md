@@ -7,7 +7,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/kevser-%C3%A7i%C3%A7ek-08230b144/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = 'https://twitter.com/kevserrrcicek'> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://twitter.com/kevserrrcicek'> <img width = '35px' align= 'center'  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 </p>
 
 
