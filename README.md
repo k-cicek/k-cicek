@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi, Welcome to my Github Profile!🙋🏽‍♀️ </h2>
 <h4 align="left"> I'm a Jr. Frontend Developer </h4>
-<h4 align="left"> I’m currently learning Three.js </h4>
+<h4 align="left"> I’m currently learning Three.js 👩🏻‍💻</h4>
 
 
 ## Connect with me:
