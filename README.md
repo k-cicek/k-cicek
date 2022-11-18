@@ -18,7 +18,7 @@
 
 💻 TechStack</h1>
 
-<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/></div>
+<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/><img width="55" 
 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>
